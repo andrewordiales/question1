@@ -1,0 +1,16 @@
+
+csv:
+  file_path: out/users.csv
+
+zendesk:
+  endpoint: https://XYZ.zendesk.com/api/v2/users.json
+  user: XYZ
+  password: XYZ
+
+iam:
+  key_id: XYZ
+  key_secret: XXXXXXXXXXXXXXXX
+  
+s3:
+  bucket: sample-bucket
+  
